@@ -4,6 +4,7 @@ Feature #1
 Feature #2
 Bug #1 - Introduced in Feature #1
 Feature #3 -- Lawrence
-Feature #11
-Feature #12
+Feature #11 -- Lawrence
+Feature #12 -- Lawrence
+Feature #13 -- Lawrence
 
