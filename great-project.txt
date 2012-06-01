@@ -5,6 +5,7 @@ Feature #2
 Bug #1 - Introduced in Feature #1
 Feature #3 -- Lawrence
 Bug #2 - Introduced in Feature #3
+Feature #4
 Feature #11 -- Lawrence
 Feature #12 -- Lawrence
 Bug #3 - Introduced in Feature #13
