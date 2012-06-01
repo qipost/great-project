@@ -1,4 +1,6 @@
 # This is a great project!
 
 Feature #1
+Feature #2
+Bug #1 - Introduced in Feature #1
 
