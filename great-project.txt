@@ -9,6 +9,7 @@ Feature #4
 Feature #5
 Feature #6
 Feature #7 -- Raymond
+Feature #8 -- Raymond
 Feature #11 -- Lawrence
 Feature #12 -- Lawrence
 Bug #3 - Introduced in Feature #13
